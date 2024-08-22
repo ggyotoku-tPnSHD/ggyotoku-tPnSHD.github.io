@@ -1,0 +1,2 @@
+This is a placeholder file for the assets directory. 
+You can store images or other media files here.
